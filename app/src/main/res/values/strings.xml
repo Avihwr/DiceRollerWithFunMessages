@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="button">Button</string>
+    <string name="roll">Roll!</string>
+    <string name="app_created_and_implemented_by_avi_gupta_in_kotlin">App Created And Implemented By Avi Gupta In Kotlin</string>
+</resources>
